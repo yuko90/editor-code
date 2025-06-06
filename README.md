@@ -212,13 +212,23 @@ File Structure
 
 ShaiyaEditor/
 ├── LICENSE
+
 ├── README.md
+
 ├── main.py
+
 ├── editor_itemcreate.py      # Contains IniEditorFrame
+
 ├── editor_mobcreate.py       # Contains MobCreateFrame & InlineEditor
+
 ├── editor_map.py             # Contains MapIniEditorFrame
+
 ├── editor_obelisk.py         # Contains ObeliskEditorFrame
+
 ├── editor_chaos.py           # Contains ChaoticSquareEditorFrame
+
 ├── editor_lua.py             # Contains LuaExplorerFrame & SyntaxPatterns
+
 ├── requirements.txt          # (empty by default)
+
 └── assets/                   # (optional: icons, screenshots)
