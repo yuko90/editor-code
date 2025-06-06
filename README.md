@@ -211,9 +211,7 @@ Usage
 File Structure
 
 ShaiyaEditor/
-├── LICENSE
 
-├── README.md
 
 ├── main.py
 
