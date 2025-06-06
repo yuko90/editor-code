@@ -1,3 +1,5 @@
+Si ce projet vous a aidé, pensez à lui laisser une étoile (⭐) en haut à droite
+
 Shaiya Multi-Tab Configuration & Lua Editor
 
 A unified, dark-themed GUI application for editing all major Shaiya configuration files and Lua scripts in one place. Built with Python 3 and Tkinter/ttk, this tool provides:
